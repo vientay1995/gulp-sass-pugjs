@@ -1,0 +1,8 @@
+.idea
+node_modules
+.sass-cache
+*.thumb
+npm-debug.log
+public/
+yarn.lock
+/node_modules
