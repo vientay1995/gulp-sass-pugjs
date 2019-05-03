@@ -36,10 +36,10 @@ const options = {
  */
 const paths = {
 	input: {
-		sass: './src/sass/',
+		sass: './src/assets/',
 		data: './src/_data/',
-		js: './src/js/',
-		images: './src/img/'
+		js: './src/assets/js/',
+		images: './src/assets/img/'
 	},
 	output: {
 		css: './public/css/',
